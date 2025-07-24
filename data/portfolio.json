@@ -1,0 +1,184 @@
+{
+  "personal_info": {
+    "name": "Vatsal Jaganwala",
+    "title": "Associate Flutter Developer",
+    "company": "Instance IT Solutions",
+    "location": "Surat, Gujarat, India",
+    "email": "vatsaljaganwala27@gmail.com",
+    "phone": "+91 7041355506",
+    "linkedin": "linkedin.com/vatsaljaganwala",
+    "github": "github.com/vatsaljaganwala",
+    "profile_summary": "Associate Flutter Developer at Instance IT Solutions, experienced in developing cross-platform mobile apps using Flutter with state management (Getx, BLoC). Experienced in working with solutions such as Firebase, REST APIs, etc, for scalable, responsive solutions. Strong problem-solving and teamwork skills with a focus on agile practices, continuous learning, and delivering high-quality results for clients."
+  },
+  "experience": [
+    {
+      "title": "Associate Flutter Developer",
+      "company": "Instance IT Solutions",
+      "location": "Surat",
+      "duration": "08/2023 – Present",
+      "responsibilities": [
+        "Experienced in cross-platform development like Android, iOS and web",
+        "Participated in the full software development life cycle (SDLC) from requirements gathering through system implementation",
+        "Wrote well-designed, testable code",
+        "Implemented agile development practices across multiple projects, ensuring the timely delivery of high-quality solutions within constraints",
+        "Focused on learning new skills and staying updated with industry changes",
+        "Strong analytical, research, and problem-solving skills for innovative client solutions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor in Engineering in Information Technology",
+      "institution": "Sardar Vallabhbhai Patel Institute of Technology, Vasad, Anand",
+      "duration": "08/2020 – 08/2024",
+      "cgpa": "8.23",
+      "location": "Vasad, Anand"
+    },
+    {
+      "degree": "HSE in PCM",
+      "institution": "Riverdale Academy",
+      "duration": "03/2020",
+      "location": "Surat"
+    },
+    {
+      "degree": "SSE",
+      "institution": "S. D. R. Umrigar School",
+      "duration": "03/2018",
+      "location": "Surat"
+    }
+  ],
+  "technical_skills": [
+    {
+      "name": "Flutter",
+      "level": 85
+    },
+    {
+      "name": "Dart",
+      "level": 85
+    },
+    {
+      "name": "State Management (Getx, BLOC)",
+      "level": 80
+    },
+    {
+      "name": "Cross-Platform Development",
+      "level": 85
+    },
+    {
+      "name": "Firebase",
+      "level": 75
+    },
+    {
+      "name": "REST APIs",
+      "level": 80
+    },
+    {
+      "name": "Object-oriented programming",
+      "level": 85
+    },
+    {
+      "name": "Version Control (Git)",
+      "level": 75
+    }
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Gujarati"
+  ],
+  "awards": [
+    {
+      "title": "Silent Achiever",
+      "organization": "Instance IT Solutions",
+      "date": "05/2025",
+      "description": "Received the 'Silent Achiever' Award at Instance IT Solutions in recognition of consistently delivering excellent results and high-quality work."
+    },
+    {
+      "title": "On The Spot Award",
+      "organization": "Instance IT Solutions",
+      "date": "06/2024",
+      "description": "Received the 'On The Spot' Award for outstanding dedication and hard work at Instance IT Solutions."
+    }
+  ],
+  "projects": [
+    {
+      "title": "B-Creamy",
+      "platforms": [
+        "Web"
+      ],
+      "description": "Designed and developed a cross-platform business management system for a food and beverage brand offering a diverse range of products. The solution included modules for inventory control, production tracking, and point-of-sale (POS) integration, supporting both operational and customer-facing processes. Focused on streamlining day-to-day business activities, the app enabled real-time monitoring of stock and production, efficient order handling, and smooth B2C transactions through a custom POS interface. The application helped improve operational efficiency, reduce manual workload, and enhance overall customer experience.",
+      "technologies": [
+        "Flutter",
+        "Web",
+        "Business Management",
+        "POS Integration",
+        "Inventory Control"
+      ],
+      "image": "img/b-creamy.png",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Prestige PRENEW",
+      "platforms": [
+        "Android",
+        "iOS",
+        "Web"
+      ],
+      "description": "Developed \"Prestige PRENEW\" for Prestige Group of Construction to manage rehabilitation projects, with a focus on tracking hutment details, demolition, and relocation. Automated the generation of essential documents for all project phases, improving accuracy and reducing manual effort. Designed a robust geo-referencing module that enabled DWG (AutoCAD) plan uploads, automatic detection of drawing elements, and interactive plotting on a geo map. This provided project teams with advanced visualisation and efficient decision-making tools.",
+      "technologies": [
+        "Flutter",
+        "GIS Integration",
+        "AutoCAD",
+        "Document Generation",
+        "Geo-referencing"
+      ],
+      "image": "img/prestige-prenew.png",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "PREOSS: Parking Management",
+      "platforms": [
+        "Android",
+        "iOS",
+        "Web"
+      ],
+      "description": "Developed \"PREOSS: Parking Management,\" a platform for \"Prestige Group of Construction\", designed to visualise parking plan DWG files and extract parking inventory. The system enables real-time allocation of parking spaces, retrieves data on parking types and conveniences, and provides an auto-allocation feature that matches parking slots to flat units based on user-defined algorithms. Personally handled all visualisation tasks, ensuring interactive and seamless plan representation for user operations.",
+      "technologies": [
+        "Flutter",
+        "DWG Visualization",
+        "Real-time Allocation",
+        "Algorithm Development",
+        "Interactive Planning"
+      ],
+      "image": "img/preoss.png",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Godrej Living App",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "description": "Developed the \"Godrej Living App\" for Godrej Properties to manage post-sale apartment activities and community operations for residential societies. The app enables efficient handling of resident engagement, event and notice broadcasts, guest in/out tracking, and parcel management within housing societies. The platform serves as a centralised community portal, allowing residents and management teams to stay connected and streamline communication and daily operations.",
+      "technologies": [
+        "Flutter",
+        "Community Management",
+        "Real-time Communication",
+        "Event Management",
+        "Resident Portal"
+      ],
+      "image": "img/godrej-living.png",
+      "github": "",
+      "demo": ""
+    }
+  ],
+  "social_links": {
+    "linkedin": "https://linkedin.com/in/vatsaljaganwala",
+    "github": "https://github.com/vatsaljaganwala",
+    "email": "mailto:vatsaljaganwala27@gmail.com"
+  },
+  "resume_link": "https://drive.google.com/file/d/1FEc422kGRK9jVUnKcZNwytW3Qt5R7y17/view?usp=sharing"
+}
